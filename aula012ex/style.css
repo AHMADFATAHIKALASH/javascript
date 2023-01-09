@@ -12,6 +12,7 @@ h1{
 }
 section{
     width: 500px;
+    height: 500px;
     background-color: white;
     border-radius: 10px;
     text-align: center;
