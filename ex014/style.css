@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+header >h1{
+    text-align: center;
+    color: white;
+}
+section{
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.281);
+
+
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    
+}
